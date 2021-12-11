@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Amir:Peltor3022607.!@devconnector.fceiu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "4c2fd586062e6315c421",
+    "githubSecret": "601a24f43dbb7f0b82b504b02e0288b65e03d9a6"
+}
